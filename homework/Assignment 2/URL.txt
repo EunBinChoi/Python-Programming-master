@@ -1,0 +1,1 @@
+http://nbviewer.jupyter.org/github/EunBinChoi/Script-Programming/blob/master/homework/homework_02_v2/Assignment02.ipynb
